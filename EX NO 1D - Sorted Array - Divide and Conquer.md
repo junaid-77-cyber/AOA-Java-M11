@@ -111,8 +111,7 @@ public class Solution {
 ```
 
 ## Output:
-
-
+![alt text](11.1d.png)
 
 ## Result:
 The program successfully implemented and the expected output is verified.
