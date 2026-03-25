@@ -42,7 +42,7 @@ x if x >= 0.
 ## Program:
 ```java
 /*
-Program to implement Reverse a String
+Program to count pairs with a given absolute difference k
 Developed by: Junaid Sardar S
 Register Number: 212224100028
 */

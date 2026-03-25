@@ -40,7 +40,7 @@ Unlike traditional matrix multiplication which takes O(n3)O(n^3)O(n3) time, Stra
 ## Program:
 ```java
 /*
-Program to implement Reverse a String
+Program to perform matrix multiplication using Strassen's algorithm
 Developed by: Junaid Sardar S
 Register Number: 212224100028 
 */

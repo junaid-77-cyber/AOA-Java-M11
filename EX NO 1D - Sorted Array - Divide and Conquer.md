@@ -44,7 +44,7 @@ The overall run time complexity should be O(log (m+n)).
 ## Program:
 ```java
 /*
-Program to implement Reverse a String
+Program to find the median of two sorted arrays
 Developed by: Junaid Sardar S
 Register Number: 212224100028 
 */
